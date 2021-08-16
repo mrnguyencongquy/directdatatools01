@@ -1,0 +1,13 @@
+steps:
+# Build the container image
+- name: 'gcr.io/cloud-builders/docker'
+  args: ['build', '-t', 'gcr.io/data-cleaning-tools01/datatools', '.']
+# Push the container image to Container Registry
+- name: 'gcr.io/cloud-builders/docker'
+  args: ['push', 'gcr.io/data-cleaning-tools01/datatools']
+# Deploy container image to Cloud Run
+- name: 'gcr.io/google.com/cloudsdktool/cloud-sdk'
+  entrypoint: gcloud
+  args: ['run', 'deploy', 'gcrdatatools', '--image', 'gcr.io/data-cleaning-tools01/datatools', '--region', 'us-central1', '--platform', 'managed', '--port', '80']
+images:
+- gcr.io/data-cleaning-tools01/datatools
