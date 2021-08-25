@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "data-cleaning-tools02",
+  "private_key_id": "0d00a43ce501ba2b394feeba40cccb6e0648c58a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC6e63gk3dCKMe0\nDY9QmXpjvwsBO53yHeeqbpXnB/OFwtSOIYK/GYm3ejSOgtu8f5CNf8upww+fvN4M\nWdouendO0v8ZlncDq+F/og0F2t9UEyXxPlgSKEZLYt2yj64pV1CllRnTh7evYqf8\nS3b0nPWs6x8HDtSfoUOYKQomTMBaljnIo9Ex7LRmjG+kGq0KI0CVj3/Txq1Nd+OM\nLpnLtkMQWqKpzfqe7Gdw4jrBBlQP254O8P1wkrUH0mXH9vcAP0w/R1MUfU0uEVqZ\n/JQ2nA6ka2G5QOnIGfs8sNIXAjv6jP7cpkXNcH9xKMNgJlHlH2DU9K7zwErwU905\nX739qyubAgMBAAECggEAO/N48cLWyzkrApJ9aW797sVDN3FAFM9SY/NLU8u1mWIK\nTWsuilsecBLkhJBDLjVgdm0IP5pLEpJ4XEYio2CRrJCenE5IErEWPJ8PSruToobJ\nYuYlEClMd/3fwgD4/6dncOQfOmbeQY8Y7D4ijv9K5/1qqy00Y+FHRsqiza9NA5HN\nnJweneIbC7AKxp95/g0IsA0GkEP/k3ou189KooUNcHiTxccIhLpdGCgmo9oKc7M8\nW+pww+NtYOYtJd+IHaHEBFFma+SMCNlXEj9zYV07n2vxtHmKORMXaUgQhHtAcW91\npLrMEhHy1gargNXqU5L3kBsYXdxGMfuCOn2VqbLTAQKBgQDexbKxU4KnkZ3j1XmL\n8d20Id6px/4x0GDHS1vzG5rFWCxiLo0TOZXVMtXSA3T4xJf+sCGUuN4ilhqsXVs2\n2QNPL+OR95QKlBkJpKYkgM5Q7jMVyW9N9xiKSiKsMjZcw3RYmD1eZwXWDAAyFWRl\ncIZLvTfS9dUx/zNBhX06UamfGwKBgQDWTFKFQ9/vhvLRRqMpwHJ47+Wu/Zi7jX8X\nRYYDHpWB57Bq9Jp8f4lD+W5rAB7JDZd8JOD4cUdGSvBCnrCHNrpMO2sPW+NLjTUV\nBlFZjMBsmVGqWoi7unyhN5OnmCESkTfWyDawJzJ0UmRRSfZvtkGJNvTnc0wLx5zP\nAJfxzRLtgQKBgFovCJcW6qaxoYyRaEJKKOl6aKys5O//np4vmMrDGxXXCyi4Fa55\nunlzufHqKllnJO0bGo0dhffUcnni1UFP+zH8fhEifBEIQVaRDB1s85j5xT6FrISQ\niqO5PW4eabmF+ry+7OEhrdAoTY/47wrN0eApesbxdFxoJrTYuIh6dMOPAoGBAIUo\nycIbSgQZk7psrShdeAQj9VHGLOil5Mn+HmbD01z0LdBYC8K+sPm2/WCpo3eE5ZNz\niwN1yDcqi56p4sEyRZLm/QB/NX6V0N0untAJQOx6XJ+BQCN+nsDCuxJR2oMiD1N7\n91eAE77qD4Hfdq010AVGS+mh4CgVsh+Cm+fZaSCBAoGATMImgyHLO8hWTveVTPm2\nbtH2eKHaRYN1alIOUXXejDeNpw/YR4j70ivVmKFQWTKJhynIKADyZxqP814avNcX\nkiFMCWj+GSkNVIvWbaUaHkbiLx/AiRiUEvAn8nAyO9AZUbbLjULGPzR1aRWlTSEz\nCGpkHEAQSPqYj1hUMXrKW1s=\n-----END PRIVATE KEY-----\n",
+  "client_email": "cloudstorage-datacleansingtool@data-cleaning-tools02.iam.gserviceaccount.com",
+  "client_id": "105396602918973271618",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/cloudstorage-datacleansingtool%40data-cleaning-tools02.iam.gserviceaccount.com"
+}

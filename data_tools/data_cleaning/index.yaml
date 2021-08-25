@@ -1,0 +1,8 @@
+indexes:
+
+- kind: Org
+  ancestor: no
+  properties:
+  - name: Age
+  - name: Gender
+    direction: desc
